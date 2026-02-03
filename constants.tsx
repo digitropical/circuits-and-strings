@@ -20,14 +20,14 @@ export const SERVICES_DATA: ServiceCardProps[] = [
         description: "Exquisite setup and structural restoration for electric, acoustic, and bass guitars.",
         icon: <Guitar className="w-8 h-8 text-[#d4af37]" />,
         features: ["Precision Fretwork", "Bone Nut Fabrication", "Floyd Rose Specialist", "Nitro Refinishing"],
-        imageUrl: "https://images.unsplash.com/photo-1525201548942-d8b8bb66ecfb?auto=format&fit=crop&q=80&w=1200"
+        imageUrl: "https://images.unsplash.com/photo-1655569615075-6ae8a1b4e6f3?auto=format&fit=crop&q=80&w=1200"
     },
     {
         title: "Tube Amp & Electronics",
         description: "Meticulous bench service for vintage and boutique analog amplification and pedals.",
         icon: <Zap className="w-8 h-8 text-[#d4af37]" />,
         features: ["Bias & Retube", "Capacitor Jobs", "Pedal Modifications", "Point-to-Point Rewiring"],
-        imageUrl: "https://images.unsplash.com/photo-1560023602-41617565b90a?auto=format&fit=crop&q=80&w=1200"
+        imageUrl: "https://images.unsplash.com/photo-1702438712148-cf23f3c38765?auto=format&fit=crop&q=80&w=1200"
     },
     {
         title: "Pro Audio Repair",
