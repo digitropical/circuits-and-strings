@@ -6,7 +6,7 @@ const Hero: React.FC = () => {
             {/* Background Layer with Ken Burns Animation */}
             <div className="absolute inset-0 z-0 overflow-hidden">
                 <img 
-                    src="https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&q=80&w=2400" 
+                    src="https://images.unsplash.com/photo-1519423836910-49d53e49398c?auto=format&fit=crop&q=80&w=2400" 
                     alt="Close up of high-end electric guitar" 
                     className="w-full h-full object-cover opacity-20 animate-ken-burns"
                 />
